@@ -1,0 +1,10 @@
+div.rg-gm-container div.rg-gm-slice-container ul.rg-gm-slice-list li {
+list-style: none !important;
+margin-left: 0;
+}
+
+ul.small-software-list li a {font-size: 100%;}
+ul.link-list li a {font-size: 100%;}
+
+
+span.rg-scr-title-span {color: rgb(80,80,80)}
